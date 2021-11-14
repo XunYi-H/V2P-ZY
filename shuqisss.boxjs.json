@@ -2,8 +2,8 @@
     "id": "ziye.shuqiapp.sub",
     "name": "ziye 书旗专用订阅",
     "author": "@ZIYE",
-    "icon": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/ziye.png",
-    "repo": "https://github.com/ziye888",
+    "icon": "https://cdn.jsdelivr.net/gh//JavaScript@main/ziye.png",
+    "repo": "https://github.com/",
     "apps": [{
         "id": "shuqiappsss",
         "name": "书旗小说APP",
@@ -64,8 +64,8 @@
             "type": "number",
             "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
         }],
-        "repo": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js",
-        "icons": ["https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png", "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png"],
-        "script": "https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js"
+        "repo": "https://cdn.jsdelivr.net/gh//JavaScript@main/Task/shuqi.js",
+        "icons": ["https://cdn.jsdelivr.net/gh//JavaScript@main/Task/shuqi.png", "https://cdn.jsdelivr.net/gh//JavaScript@main/Task/shuqi.png"],
+        "script": "https://cdn.jsdelivr.net/gh//JavaScript@main/Task/shuqi.js"
     }]
 }
